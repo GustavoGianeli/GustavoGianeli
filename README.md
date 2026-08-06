@@ -16,8 +16,8 @@ No momento estou procurando estágio na area de TI, também estou focando nos me
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-Infinity-007ACC?style=for-the-badge&logo=devops&logoColor=white)
-![Infraestrutura](https://img.shields.io/badge/Infraestutura-Server-333333?style=for-the-badge&logo=server&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=devops&logoColor=white)
+![Infraestrutura](https://img.shields.io/badge/Infraestrutura-Server-333333?style=for-the-badge&logo=server&logoColor=white)
 
 ---
 
