@@ -3,7 +3,7 @@
 
 **Estudante de Ciência da Computação | Entusiasta de Linux & Arch User | he/him**
 
-Sou estudante do 2º ano de Ciência da Computação, movido pela curiosidade de entender como as coisas funcionam por baixo dos panos. Sou *"hands-on"* por natureza, com um foco enorme em **automação, infraestrutura e ferramentas de pentest**. 
+Sou estudante do 2º ano de Ciência da Computação, movido pela curiosidade de entender como as coisas funcionam por baixo dos panos. Sou *"hands-on"* por natureza, com um foco enorme em **automação, Infraestrutura e ferramentas de pentest**. 
 
 No momento estou procurando estágio na area de TI, também estou focando nos meus estudos de Inglês (nível básico) e estudos por fora como o Alura para expandir meus conhecimentos e minhas oportunidades na área tech.
 
@@ -17,7 +17,7 @@ No momento estou procurando estágio na area de TI, também estou focando nos me
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-Infinity-007ACC?style=for-the-badge&logo=devops&logoColor=white)
-![Infrastructure](https://img.shields.io/badge/Infraestutura-Server-333333?style=for-the-badge&logo=server&logoColor=white)
+![Infraestrutura](https://img.shields.io/badge/Infraestutura-Server-333333?style=for-the-badge&logo=server&logoColor=white)
 
 ---
 
