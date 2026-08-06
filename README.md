@@ -48,3 +48,5 @@ No momento estou procurando estágio na area de TI, também estou focando nos me
 - email: **gustavo.gianeli13@gmail.com**
 - email: gustavo.gianeli@hotmail.com
 - https://www.instagram.com/gustavo.gianeli.setimo/
+
+---
