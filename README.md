@@ -46,7 +46,7 @@ No momento estou procurando estágio na area de TI, também estou focando nos me
 - GitHub: [@GustavoGianeli](https://github.com/GustavoGianeli)
 - Nickname: **𝓣𝓱𝓮 𝓢𝓮𝓿𝓮𝓷𝓽𝓱**
 - Email: **gustavo.gianeli13@gmail.com**
-- Linkedin: linkedin.com/in/gustavo-gianeli
+- Linkedin: www.linkedin.com/in/gustavo-gianeli
 - Instagram: https://www.instagram.com/gustavo.gianeli.setimo/
 
 ---
