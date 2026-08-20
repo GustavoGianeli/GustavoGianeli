@@ -47,6 +47,7 @@ No momento estou procurando estágio na area de TI, também estou focando nos me
 - Nickname: **𝓣𝓱𝓮 𝓢𝓮𝓿𝓮𝓷𝓽𝓱**
 - email: **gustavo.gianeli13@gmail.com**
 - email: gustavo.gianeli@hotmail.com
+- linkedin.com/in/gustavo-gianeli
 - https://www.instagram.com/gustavo.gianeli.setimo/
 
 ---
