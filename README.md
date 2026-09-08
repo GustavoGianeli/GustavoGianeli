@@ -1,5 +1,5 @@
 # Olá, eu sou o Gustavo Gianeli! 
-### **𝓣𝓱𝓮 𝓢𝓮𝓿𝓮𝓷𝓽𝓱**
+### **𝕿𝖍𝖊 S𝖊𝖛𝖊𝖓𝖙𝖍**
 
 **Estudante de Ciência da Computação | Entusiasta de Linux & Arch User | he/him**
 
