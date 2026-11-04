@@ -7,33 +7,6 @@
 
 ---
 
-<div align="center">
-
-<h3> CONNECT WITH ME </h3>
-
-<a href="https://github.com/GustavoGianeli">
-  <img src="https://img.shields.io/badge/GITHUB-242B3B?style=for-the-badge&logo=github&logoColor=white&labelColor=242B3B" height="48" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/gustavo-gianeli">
-  <img src="https://img.shields.io/badge/LINKEDIN-123D70?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=123D70" height="48" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.instagram.com/gustavo.gianeli.setimo/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-83345F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=83345F" height="48" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="mailto:gustavo.gianeli13@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-7C352F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7C352F" height="48" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<sub>THE SEVENTH • LET'S CONNECT</sub>
-
-</div>
 
 ---
 
