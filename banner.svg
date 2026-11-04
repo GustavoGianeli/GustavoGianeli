@@ -57,8 +57,9 @@
   <!-- CARD PRINCIPAL ARREDONDADO -->
   <rect width="850" height="340" class="card-bg" />
 
-  <!-- FOTO DE PERFIL EMBUTIDA VIA BASE64 -->
-  <circle cx="140" cy="150" r="68" fill="#3b82f6" />
+  
+  <!-- FOTO DE PERFIL LOCAL -->
+  <image href="perfil.jpg" x="75" y="85" width="130" height="130" clip-path="url(#avatar-clip)" />
   
 
   <!-- BADGE STATUS -->
