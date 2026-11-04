@@ -1,0 +1,91 @@
+<svg width="850" height="340" viewBox="0 0 850 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card-bg {
+      fill: url(#gradient-bg);
+      rx: 16px;
+      ry: 16px;
+      stroke: #3b82f6;
+      stroke-width: 1.5px;
+    }
+    .title-text {
+      font-family: 'Segoe UI', Ubuntu, Roboto, sans-serif;
+      font-weight: 700;
+      font-size: 26px;
+      fill: #ffffff;
+    }
+    .sub-text {
+      font-family: 'Segoe UI', Ubuntu, Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      fill: #60a5fa;
+      letter-spacing: 1px;
+    }
+    .detail-text {
+      font-family: 'Segoe UI', Ubuntu, Roboto, sans-serif;
+      font-size: 12px;
+      fill: #94a3b8;
+    }
+
+    @keyframes switchName {
+      0%, 45% { opacity: 1; }
+      50%, 95% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes switchNick {
+      0%, 45% { opacity: 0; }
+      50%, 95% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    .name-1 { animation: switchName 6s infinite; }
+    .name-2 { animation: switchNick 6s infinite; }
+  </style>
+
+  <defs>
+    <!-- GRADIENTE AZUL PARA ROXO -->
+    <linearGradient id="gradient-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#311042" />
+    </linearGradient>
+
+    <!-- MÁSCARA CIRCULAR DO AVATAR -->
+    <clipPath id="avatar-clip">
+      <circle cx="140" cy="150" r="65" />
+    </clipPath>
+  </defs>
+
+  <!-- CARD PRINCIPAL ARREDONDADO -->
+  <rect width="850" height="340" class="card-bg" />
+
+  <!-- FOTO DE PERFIL -->
+  <circle cx="140" cy="150" r="68" fill="#3b82f6" />
+  
+
+  <!-- BADGE STATUS -->
+  <g transform="translate(250, 55)">
+    <rect width="175" height="26" rx="13" fill="#0f172a" stroke="#1d4ed8" stroke-width="1" />
+    <circle cx="16" cy="13" r="4" fill="#22c55e" />
+    <text x="28" y="17" fill="#93c5fd" font-family="sans-serif" font-size="11" font-weight="bold">aberto a colaborações</text>
+  </g>
+
+  <!-- ANIMAÇÃO DE TROCA DE NOME -->
+  <g transform="translate(250, 120)">
+    <text class="title-text name-1" x="0" y="0">Gustavo Gianeli Rodrigues</text>
+    <text class="title-text name-2" x="0" y="0" fill="#a855f7">By: 𝕿𝖍𝖊 𝕾𝖊𝖛𝖊𝖓𝖙𝖍</text>
+  </g>
+
+  <!-- SUBTÍTULO -->
+  <text class="sub-text" x="250" y="150">COMPUTER SCIENCE STUDENT</text>
+  <text class="detail-text" x="250" y="175">LINUX SYSTEMS  •  AUTOMATION  •  INFRASTRUCTURE</text>
+
+  <!-- LINHA DIVISÓRIA -->
+  <line x1="250" y1="200" x2="790" y2="200" stroke="#334155" stroke-width="1" />
+
+  <!-- PROJETOS -->
+  <g transform="translate(250, 240)">
+    <text fill="#64748b" font-family="sans-serif" font-size="11" font-weight="bold">PROJETOS PRINCIPAIS:</text>
+    <text x="0" y="30" fill="#60a5fa" font-family="sans-serif" font-size="13" font-weight="bold">🔷 arch-update-full</text>
+    <text x="180" y="30" fill="#a855f7" font-family="sans-serif" font-size="13" font-weight="bold">◇ alicerce</text>
+    <text x="290" y="30" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="bold">⚡ project-odin</text>
+  </g>
+</svg>
