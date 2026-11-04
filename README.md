@@ -8,6 +8,43 @@
 ---
 
 
+<div align="center">
+
+<table width="100%" border="0" cellpadding="14" cellspacing="0" bgcolor="#101936">
+<tr>
+<td align="center">
+
+<img src="./social-panel/social-header.svg" width="100%" alt="Connect with me"/>
+
+<br/><br/>
+
+<a href="https://github.com/GustavoGianeli">
+<img src="./social-panel/github.svg" width="190" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gustavo-gianeli">
+<img src="./social-panel/linkedin.svg" width="190" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/gustavo.gianeli.setimo/">
+<img src="./social-panel/instagram.svg" width="190" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="mailto:gustavo.gianeli13@gmail.com">
+<img src="./social-panel/email.svg" width="190" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="./social-panel/social-footer.svg" width="100%" alt="Panel footer"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 ---
 
 # Gustavo Gianeli Rodrigues
