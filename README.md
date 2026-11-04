@@ -34,32 +34,32 @@ Sou estudante do 2º ano de Ciência da Computação, movido pela curiosidade de
 
 No momento estou procurando estágio na area de TI, também estou focando nos meus estudos de Inglês (nível básico) e estudos por fora como o Alura para expandir meus conhecimentos e minhas oportunidades na área tech.
 
-
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
   <a href="https://archlinux.org/">
-    <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white&color=1793D1&labelColor=0f5c84" alt="Arch Linux" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white&color=1793D1&labelColor=0f5c84" alt="Arch Linux" />
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=fcc624&labelColor=c69719" alt="Linux" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=fcc624&labelColor=c69719" alt="Linux" />
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4eaa25&labelColor=326d18" alt="Bash" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4eaa25&labelColor=326d18" alt="Bash" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776ab&labelColor=234c6e" alt="Python" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776ab&labelColor=234c6e" alt="Python" />
   </a>
+  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e&labelColor=c2aa15" alt="JavaScript" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e&labelColor=c2aa15" alt="JavaScript" />
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ed&labelColor=175f97" alt="Docker" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ed&labelColor=175f97" alt="Docker" />
   </a>
   <a href="https://aws.amazon.com/devops/">
-    <img src="https://img.shields.io/badge/DevOps-%23FF4F00.svg?style=for-the-badge&logo=devops&logoColor=white&color=ff4f00&labelColor=b33700" alt="DevOps" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/DevOps-%23FF4F00.svg?style=for-the-badge&logo=devops&logoColor=white&color=ff4f00&labelColor=b33700" alt="DevOps" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Infraestrutura-%237B1FA2.svg?style=for-the-badge&logo=server&logoColor=white&color=7b1fa2&labelColor=4e1367" alt="Infraestrutura" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Infraestrutura-%237B1FA2.svg?style=for-the-badge&logo=server&logoColor=white&color=7b1fa2&labelColor=4e1367" alt="Infraestrutura" />
   </a>
 </p>
 
