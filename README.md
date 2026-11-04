@@ -4,21 +4,10 @@
   <img src="./banner.svg" width="100%" alt="Gustavo Gianeli Banner" />
 
   <br/><br/>
-
----
-
-
-<div align="center">
-
-<table width="100%" border="0" cellpadding="14" cellspacing="0" bgcolor="#101936">
+<!-- ================= SOCIAL PANEL ================= --><div align="center"><img src="./social-panel/social-header.svg" width="100%" alt="Connect with me"/><br/><br/>
+</div><table width="100%" border="0" cellpadding="18" cellspacing="0" bgcolor="#172B52" background="./social-panel/social-background.svg">
 <tr>
-<td align="center">
-
-<img src="./social-panel/social-header.svg" width="100%" alt="Connect with me"/>
-
-<br/><br/>
-
-<a href="https://github.com/GustavoGianeli">
+<td align="center"><a href="https://github.com/GustavoGianeli">
 <img src="./social-panel/github.svg" width="190" alt="GitHub"/>
 </a>
 &nbsp;
@@ -32,20 +21,11 @@
 &nbsp;
 <a href="mailto:gustavo.gianeli13@gmail.com">
 <img src="./social-panel/email.svg" width="190" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="./social-panel/social-footer.svg" width="100%" alt="Panel footer"/>
-
-</td>
+</a></td>
 </tr>
-</table>
+</table><div align="center"><img src="./social-panel/social-footer.svg" width="100%" alt="Panel footer"/></div><!-- ================= END SOCIAL PANEL ================= -->
 
-</div>
-
-
----
+<div align="left">
 
 # Gustavo Gianeli Rodrigues
 ### **By: 𝕿𝖍𝖊 𝑺𝖊𝖛𝖊𝖓𝖙𝖍**
