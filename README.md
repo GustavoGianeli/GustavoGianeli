@@ -4,7 +4,6 @@
   <img src="./banner.svg" width="100%" alt="Gustavo Gianeli Banner" />
 
   <br/><br/>
-<img width="1000" height="300" alt="the-seventh-profile-preview" src="https://github.com/user-attachments/assets/c2f1cd7e-3f27-43b0-ac65-7e61aa212b05" />
 
 ---
   <!-- REDES SOCIAIS COM BOTÕES CLICÁVEIS -->
