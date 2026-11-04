@@ -4,7 +4,9 @@
   <img src="./banner.svg" width="100%" alt="Gustavo Gianeli Banner" />
 
   <br/><br/>
+<img width="1000" height="300" alt="the-seventh-profile-preview" src="https://github.com/user-attachments/assets/c2f1cd7e-3f27-43b0-ac65-7e61aa212b05" />
 
+---
   <!-- REDES SOCIAIS COM BOTÕES CLICÁVEIS -->
   <p>
     <a href="https://github.com/GustavoGianeli">
@@ -23,7 +25,7 @@
 
 </div>
 
-# Olá, eu sou o Gustavo Gianeli Rodrigues! 
+# Gustavo Gianeli Rodrigues
 ### **By: 𝕿𝖍𝖊 𝑺𝖊𝖛𝖊𝖓𝖙𝖍**
 
 **Estudante de Ciência da Computação | Entusiasta de Linux & Arch User | he/him**
@@ -32,23 +34,42 @@ Sou estudante do 2º ano de Ciência da Computação, movido pela curiosidade de
 
 No momento estou procurando estágio na area de TI, também estou focando nos meus estudos de Inglês (nível básico) e estudos por fora como o Alura para expandir meus conhecimentos e minhas oportunidades na área tech.
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=devops&logoColor=white)
-![Infraestrutura](https://img.shields.io/badge/Infraestrutura-Server-333333?style=for-the-badge&logo=server&logoColor=white)
+<p align="center">
+  <a href="https://archlinux.org/">
+    <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white&color=1793D1&labelColor=0f5c84" alt="Arch Linux" style="border-radius: 20px;" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=fcc624&labelColor=c69719" alt="Linux" style="border-radius: 20px;" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4eaa25&labelColor=326d18" alt="Bash" style="border-radius: 20px;" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776ab&labelColor=234c6e" alt="Python" style="border-radius: 20px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e&labelColor=c2aa15" alt="JavaScript" style="border-radius: 20px;" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ed&labelColor=175f97" alt="Docker" style="border-radius: 20px;" />
+  </a>
+  <a href="https://aws.amazon.com/devops/">
+    <img src="https://img.shields.io/badge/DevOps-%23FF4F00.svg?style=for-the-badge&logo=devops&logoColor=white&color=ff4f00&labelColor=b33700" alt="DevOps" style="border-radius: 20px;" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Infraestrutura-%237B1FA2.svg?style=for-the-badge&logo=server&logoColor=white&color=7b1fa2&labelColor=4e1367" alt="Infraestrutura" style="border-radius: 20px;" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Projetos Pessoais & Open Source
 *Aplicações e scripts que criei do zero para resolver problemas reais, otimizar sistemas e construir minha própria infraestrutura.*
 
+* 🐧 **[post-install-arch-full](https://github.com/GustavoGianeli/post-install-arch-full)**
+  >Uma ferramenta modular de pós-instalação e provisionamento para Arch Linux e sistemas compatíveis, com detecção de ambiente, configuração automatizada e perfis especializados.
 * 🐧 **[arch-update-full](https://github.com/GustavoGianeli/arch-update-full)**
   > Meu próprio script publicado oficialmente no **AUR** (Arch User Repository). Desenvolvido para automatizar e realizar a atualização completa de sistemas baseados em Arch Linux com segurança.
 * 🖥️ **[my-home-server-alicerce](https://github.com/GustavoGianeli/my-home-server-alicerce)**
@@ -69,7 +90,7 @@ No momento estou procurando estágio na area de TI, também estou focando nos me
 
 📫 **Como me encontrar:**
 - GitHub: [@GustavoGianeli](https://github.com/GustavoGianeli)
-- Nickname: **𝓣𝓱𝓮 𝓢𝓮𝓿𝓮𝓷𝓽𝓱**
+- Nickname: **𝕿𝖍𝖊 𝑺𝖊𝖛𝖊𝖓𝖙𝖍***
 - Email: **gustavo.gianeli13@gmail.com**
 - Linkedin: www.linkedin.com/in/gustavo-gianeli
 - Instagram: https://www.instagram.com/gustavo.gianeli.setimo/
