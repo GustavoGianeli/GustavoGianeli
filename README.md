@@ -1,3 +1,28 @@
+<div align="center">
+
+  <!-- BANNER SVG CARREGADO COMO IMAGEM -->
+  <img src="./banner.svg" width="100%" alt="Gustavo Gianeli Banner" />
+
+  <br/><br/>
+
+  <!-- REDES SOCIAIS COM BOTÕES CLICÁVEIS -->
+  <p>
+    <a href="https://github.com/GustavoGianeli">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/gustavo-gianeli">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/gustavo.gianeli.setimo/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="mailto:gustavo.gianeli13@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
+</div>
+
 # Olá, eu sou o Gustavo Gianeli Rodrigues! 
 ### **By: 𝕿𝖍𝖊 𝑺𝖊𝖛𝖊𝖓𝖙𝖍**
 
