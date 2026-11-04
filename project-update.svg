@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 112" width="104" height="112" role="img" aria-labelledby="t">
+<title id="t">Arch Update Full</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d4ed8"/><stop offset="1" stop-color="#0c2b59"/></linearGradient><filter id="s" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="7" stdDeviation="6" flood-color="#0c2b59" flood-opacity=".45"/></filter></defs>
+<style>.sans{font-family:Inter,'Segoe UI',Arial,sans-serif}.f{animation:float 5s ease-in-out infinite}@keyframes float{50%{transform:translateY(-4px)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g class="f"><rect x="20" y="10" width="64" height="64" rx="19" fill="url(#g)" filter="url(#s)"/><rect x="20.5" y="10.5" width="63" height="63" rx="18.5" fill="none" stroke="#fff" stroke-opacity=".2"/><path d="M52 23l17 6v13c0 13-7 22-17 27-10-5-17-14-17-27V29z" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/><path d="M43 44l6 6 12-14" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="52" y="101" text-anchor="middle" class="sans" font-size="11.5" font-weight="650" fill="#a5b4fc">UPDATE</text>
+</svg>
